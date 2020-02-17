@@ -1,0 +1,21 @@
+{
+    "name": "homebrew",
+    "displayName": "Homebrew",
+    "description": "Terminal.app's Homebrew theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Homebrew",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Homebrew-color-theme.json"
+            }
+        ]
+    }
+}
