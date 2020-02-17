@@ -11,7 +11,7 @@
     "publisher": "zenizh",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kami-zh/vscode-theme-homebrew.git"
+        "url": "https://github.com/zenizh/vscode-theme-homebrew.git"
     },
     "engines": {
         "vscode": "^1.42.0"
