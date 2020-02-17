@@ -3,6 +3,7 @@
     "displayName": "Homebrew",
     "description": "Terminal.app's Homebrew theme for Visual Studio Code.",
     "version": "0.0.1",
+    "publisher": "zenizh",
     "engines": {
         "vscode": "^1.42.0"
     },
