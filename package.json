@@ -4,6 +4,10 @@
     "description": "Terminal.app's Homebrew theme for Visual Studio Code.",
     "version": "0.0.1",
     "publisher": "zenizh",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kami-zh/vscode-theme-homebrew.git"
+    },
     "engines": {
         "vscode": "^1.42.0"
     },
