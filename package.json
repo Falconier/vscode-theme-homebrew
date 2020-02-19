@@ -7,7 +7,7 @@
         "theme": "dark"
     },
     "icon": "images/icon.png",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "zenizh",
     "repository": {
         "type": "git",
