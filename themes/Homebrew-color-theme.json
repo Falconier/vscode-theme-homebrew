@@ -134,7 +134,7 @@
 		// Side Bar
 		//
 		"sideBar.background": "#000",
-		"sideBar.foreground": "#00a600",
+		"sideBar.foreground": "#00d900",
 		"sideBar.border": "#111",
 		// "sideBar.dropBackground": "",
 		"sideBarTitle.foreground": "#00a600",
@@ -606,7 +606,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00a600"
+				"foreground": "#990"
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#990"
+				"foreground": "#00a6b2"
 			}
 		},
 		{
