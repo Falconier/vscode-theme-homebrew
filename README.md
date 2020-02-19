@@ -1,5 +1,9 @@
 # vscode-theme-homebrew
 
+![](https://vsmarketplacebadge.apphb.com/version-short/zenizh.homebrew.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/zenizh.homebrew.svg)
+![](https://vsmarketplacebadge.apphb.com/rating-short/zenizh.homebrew.svg)
+
 Terminal.app's Homebrew theme for Visual Studio Code.
 
 ## Screenshot
