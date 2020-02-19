@@ -347,7 +347,7 @@
 		"statusBar.debuggingForeground": "#000",
 		// "statusBar.debuggingBorder": "",
 		// "statusBar.noFolderForeground": "",
-		// "statusBar.noFolderBackground": "",
+		"statusBar.noFolderBackground": "#b200b2",
 		// "statusBar.noFolderBorder": "",
 		// "statusBarItem.activeBackground": "",
 		// "statusBarItem.hoverBackground": "",
