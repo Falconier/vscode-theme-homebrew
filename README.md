@@ -22,3 +22,11 @@ Terminal.app's Homebrew theme for Visual Studio Code.
 |![](https://placehold.it/14/900/000?text=+) Red|`#900`|![](https://placehold.it/14/e50000/000?text=+) Bright Red|`#e50000`|
 |![](https://placehold.it/14/bfbfbf/000?text=+) White|`#bfbfbf`|![](https://placehold.it/14/e5e5e5/000?text=+) Bright White|`#e5e5e5`|
 |![](https://placehold.it/14/990/000?text=+) Yellow|`#990`|![](https://placehold.it/14/e5e500/000?text=+) Bright Yellow|`#e5e500`|
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/zenizh/vscode-theme-homebrew.
+
+## License
+
+The extension is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
