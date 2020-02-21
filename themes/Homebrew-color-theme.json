@@ -114,7 +114,7 @@
 		// "listFilterWidget.noMatchesOutline": "",
 		// "list.filterMatchBackground": "",
 		// "list.filterMatchBorder": "",
-		"tree.indentGuidesStroke": "#222",
+		"tree.indentGuidesStroke": "#333",
 
 		//
 		// Activity Bar
@@ -219,9 +219,9 @@
 		// "editor.rangeHighlightBorder": "",
 		// "editor.symbolHighlightBackground": "",
 		// "editor.symbolHighlightBorder": "",
-		// "editorWhitespace.foreground": "",
+		"editorWhitespace.foreground": "#333",
 		"editorIndentGuide.background": "#111",
-		"editorIndentGuide.activeBackground": "#222",
+		"editorIndentGuide.activeBackground": "#333",
 		// "editorRuler.foreground": "",
 		// "editorCodeLens.foreground": "",
 		// "editorLightBulb.foreground": "",
