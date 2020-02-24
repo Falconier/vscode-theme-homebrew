@@ -463,7 +463,7 @@
 		"gitDecoration.untrackedResourceForeground": "#00a6b2",
 		"gitDecoration.ignoredResourceForeground": "#666",
 		// "gitDecoration.conflictingResourceForeground": "",
-		// "gitDecoration.submoduleResourceForeground": "",
+		"gitDecoration.submoduleResourceForeground": "#bfbfbf",
 
 		//
 		// Settings Editor colors
