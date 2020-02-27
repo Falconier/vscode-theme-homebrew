@@ -84,7 +84,7 @@
 		//
 		// Badge
 		//
-		"badge.background": "#222",
+		"badge.background": "#333",
 		"badge.foreground": "#bfbfbf",
 
 		//
@@ -95,15 +95,15 @@
 		//
 		// Lists and trees
 		//
-		"list.activeSelectionBackground": "#111",
+		"list.activeSelectionBackground": "#222",
 		"list.activeSelectionForeground": "#00d900",
-		"list.dropBackground": "#111",
+		"list.dropBackground": "#222",
 		// "list.focusBackground": "",
 		// "list.focusForeground": "",
 		// "list.highlightForeground": "",
-		"list.hoverBackground": "#111",
+		"list.hoverBackground": "#222",
 		"list.hoverForeground": "#00d900",
-		"list.inactiveSelectionBackground": "#111",
+		"list.inactiveSelectionBackground": "#222",
 		"list.inactiveSelectionForeground": "#00d900",
 		// "list.inactiveFocusBackground": "",
 		// "list.invalidItemForeground": "",
@@ -114,16 +114,16 @@
 		// "listFilterWidget.noMatchesOutline": "",
 		// "list.filterMatchBackground": "",
 		// "list.filterMatchBorder": "",
-		"tree.indentGuidesStroke": "#333",
+		"tree.indentGuidesStroke": "#666",
 
 		//
 		// Activity Bar
 		//
-		"activityBar.background": "#000",
+		"activityBar.background": "#222",
 		"activityBar.dropBackground": "#6663",
 		"activityBar.foreground": "#00d900",
 		"activityBar.inactiveForeground": "#666",
-		"activityBar.border": "#111",
+		// "activityBar.border": "",
 		"activityBarBadge.background": "#00a6b2",
 		"activityBarBadge.foreground": "#000",
 		"activityBar.activeBorder": "#00d900",
@@ -133,12 +133,12 @@
 		//
 		// Side Bar
 		//
-		"sideBar.background": "#000",
+		"sideBar.background": "#111",
 		"sideBar.foreground": "#00d900",
-		"sideBar.border": "#111",
+		// "sideBar.border": "",
 		// "sideBar.dropBackground": "",
 		"sideBarTitle.foreground": "#00a600",
-		"sideBarSectionHeader.background": "#000",
+		"sideBarSectionHeader.background": "#111",
 		"sideBarSectionHeader.foreground": "#00a600",
 		// "sideBarSectionHeader.border": "",
 
@@ -159,7 +159,7 @@
 		"editorGroup.border": "#111",
 		"editorGroup.dropBackground": "#6663",
 		// "editorGroupHeader.noTabsBackground": "",
-		"editorGroupHeader.tabsBackground": "#000",
+		"editorGroupHeader.tabsBackground": "#111",
 		// "editorGroupHeader.tabsBorder": "",
 		// "editorGroup.emptyBackground": "",
 		// "editorGroup.focusedEmptyBorder": "",
@@ -172,10 +172,10 @@
 		"tab.activeBorderTop": "#00d900",
 		"tab.unfocusedActiveBorderTop": "#00a600",
 		"tab.inactiveForeground": "#666",
-		"tab.inactiveBackground": "#000",
+		"tab.inactiveBackground": "#111",
 		"tab.unfocusedActiveForeground":"#00a600",
 		"tab.unfocusedInactiveForeground": "#666",
-		// "tab.hoverBackground": "",
+		"tab.hoverBackground": "#000",
 		// "tab.unfocusedHoverBackground": "",
 		// "tab.hoverBorder": "",
 		// "tab.unfocusedHoverBorder": "",
@@ -220,8 +220,8 @@
 		// "editor.symbolHighlightBackground": "",
 		// "editor.symbolHighlightBorder": "",
 		"editorWhitespace.foreground": "#333",
-		"editorIndentGuide.background": "#111",
-		"editorIndentGuide.activeBackground": "#333",
+		"editorIndentGuide.background": "#333",
+		"editorIndentGuide.activeBackground": "#666",
 		// "editorRuler.foreground": "",
 		// "editorCodeLens.foreground": "",
 		// "editorLightBulb.foreground": "",
@@ -360,9 +360,9 @@
 		//
 		// Title Bar colors
 		//
-		"titleBar.activeBackground": "#000",
+		"titleBar.activeBackground": "#111",
 		"titleBar.activeForeground": "#bfbfbf",
-		"titleBar.inactiveBackground": "#000",
+		"titleBar.inactiveBackground": "#111",
 		"titleBar.inactiveForeground": "#bfbfbf",
 		// "titleBar.border": "",
 
@@ -383,13 +383,13 @@
 		//
 		// Notification colors
 		//
-		"notificationCenter.border": "#111",
+		"notificationCenter.border": "#222",
 		"notificationCenterHeader.foreground": "#bfbfbf",
 		"notificationCenterHeader.background": "#111",
-		"notificationToast.border": "#111",
+		"notificationToast.border": "#222",
 		"notifications.foreground": "#00a600",
-		"notifications.background": "#000",
-		"notifications.border": "#111",
+		"notifications.background": "#111",
+		"notifications.border": "#222",
 		// "notificationLink.foreground": "",
 		"notificationsErrorIcon.foreground": "#900",
 		"notificationsWarningIcon.foreground": "#990",
