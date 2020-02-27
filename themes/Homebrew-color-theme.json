@@ -121,13 +121,13 @@
 		//
 		"activityBar.background": "#222",
 		"activityBar.dropBackground": "#6663",
-		"activityBar.foreground": "#00d900",
+		"activityBar.foreground": "#bfbfbf",
 		"activityBar.inactiveForeground": "#666",
 		// "activityBar.border": "",
 		"activityBarBadge.background": "#00a6b2",
 		"activityBarBadge.foreground": "#000",
-		"activityBar.activeBorder": "#00d900",
-		"activityBar.activeBackground": "#0000",
+		"activityBar.activeBorder": "#bfbfbf",
+		// "activityBar.activeBackground": "",
 		// "activityBar.activeFocusBorder": "",
 
 		//
@@ -360,9 +360,9 @@
 		//
 		// Title Bar colors
 		//
-		"titleBar.activeBackground": "#111",
+		"titleBar.activeBackground": "#333",
 		"titleBar.activeForeground": "#bfbfbf",
-		"titleBar.inactiveBackground": "#111",
+		"titleBar.inactiveBackground": "#333",
 		"titleBar.inactiveForeground": "#bfbfbf",
 		// "titleBar.border": "",
 
