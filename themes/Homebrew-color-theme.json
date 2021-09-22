@@ -202,10 +202,10 @@
 		// "editor.wordHighlightBorder": "",           // unknown
 		// "editor.wordHighlightStrongBackground": "", // unknown
 		// "editor.wordHighlightStrongBorder": "",     // unknown
-		"editor.findMatchBackground": "#9906",
-		"editor.findMatchHighlightBackground": "#9006",
+		"editor.findMatchBackground": "#e500e578",
+		"editor.findMatchHighlightBackground": "#e500e570",
 		// "editor.findRangeHighlightBackground": "", // not set
-		// "editor.findMatchBorder": "",              // not set
+		"editor.findMatchBorder": "#e500e5",
 		// "editor.findMatchHighlightBorder": "",     // not set
 		// "editor.findRangeHighlightBorder": "",     // not set
 		// "searchEditor.findMatchBackground": "",    // unknown
